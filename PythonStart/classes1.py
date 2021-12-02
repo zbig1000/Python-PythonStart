@@ -23,7 +23,7 @@ class Person:
         return f"{gender}, {self.first_name}, {self.last_name}"
 
 
-p = Person('jan', 'KOW/Alski', gender='M')
+""" p = Person('jan', 'KOW/Alski', gender='M')
 print(p.first_name)
 print(p.last_name)
 print(p)
@@ -31,3 +31,4 @@ print(p)
 p = Person('jOE', 'KOWAlski', gender='M')
 print(p)
 print(p)
+ """
